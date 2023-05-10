@@ -4,3 +4,4 @@
 -pendalaman javascript
 -belajar node js
 -latihan membuat aplikasi web
+-membuat prtfolio website
