@@ -1,0 +1,4 @@
+-belajar tentang git
+-latihan tentang git
+-belajar framework javascript
+-pendalaman javascript
